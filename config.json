@@ -1,0 +1,12 @@
+ {
+  "version": "2.9.0",
+  "release_date": "03/10/2023",
+  "min": "1.0.0",
+  "migrations": [
+    "database/migrations/2023_09_23_093805_create_wr_notifications_table.php",
+    "database/migrations/2023_09_26_131104_create_application_versions_table.php"
+
+  ],
+  "url": "https://themetags.com/contact/",
+  "notes": "This is a bug fixing update."
+}
